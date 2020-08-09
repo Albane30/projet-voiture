@@ -68,7 +68,7 @@
     <section id="contact">
       <h2>Vous souhaitez faire un essai?</h2>
         <p>
-      Laisser nous vos coordonnées afin de pouvoir vous contactez dans les plus brefs délais.
+      Laissez nous vos coordonnées afin de pouvoir vous contacter dans les plus brefs délais.
         </p>
 
 	  <form id="myform" method="post" action="formulaire.php">
